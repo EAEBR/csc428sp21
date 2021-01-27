@@ -9,4 +9,4 @@ To save some time in class, you will find compiled [binaries](https://github.com
  - **03_hello_world_x64.exe** has a simple printf to output "Hello, World" compiled as a 64-bit Windows binary. 
 
 ## Resources
-The resources directory holds cheat sheets, guides, etc. that may come in handy while learning different tools and utilities as we cover them in class.
+The [resources](https://github.com/DSUmjham/csc428sp21/tree/main/resources) directory holds cheat sheets, guides, etc. that may come in handy while learning different tools and utilities as we cover them in class.
